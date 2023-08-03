@@ -1,0 +1,23 @@
+{
+  "name": "nocapmeta-htmlcanva-threejs-assignment.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iam-nilanj0n/nocapmeta-htmlcanva-threejs-assignment.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iam-nilanj0n/nocapmeta-htmlcanva-threejs-assignment.github.io/issues"
+  },
+  "homepage": "https://github.com/iam-nilanj0n/nocapmeta-htmlcanva-threejs-assignment.github.io#readme",
+  "dependencies": {
+    "three": "^0.155.0"
+  }
+}
